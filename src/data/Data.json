@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "nombre": "Silla de oficina",
+    "precio": 250.0,
+    "descripcion":
+      "Silla de oficina ergonómica con soporte lumbar y reposabrazos ajustables.",
+    "categoria": "Muebles",
+    "imagen": "https://cdn.pixabay.com/photo/2014/05/05/17/43/swivel-chair-338351_640.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Cafetera",
+    "precio": 80.0,
+    "descripcion": "Cafetera eléctrica programable con capacidad para 12 tazas.",
+    "categoria": "Electrodomésticos",
+    "imagen": "https://cdn.pixabay.com/photo/2012/04/14/14/46/percolator-34180_640.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Juego de sábanas",
+    "precio": 60.0,
+    "descripcion":
+      "Juego de sábanas de algodón egipcio de 400 hilos para cama matrimonial.",
+    "categoria": "Ropa de cama",
+    "imagen": "https://cdn.pixabay.com/photo/2016/03/28/09/34/bedroom-1285156_640.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Cuchillos de cocina",
+    "precio": 120.0,
+    "descripcion":
+      "Set de 5 cuchillos de acero inoxidable con mango ergonómico y bloque de almacenamiento.",
+    "categoria": "Cocina",
+    "imagen": "https://cdn.pixabay.com/photo/2016/11/19/12/37/knives-1839061_640.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Aspiradora",
+    "precio": 180.0,
+    "descripcion":
+      "Aspiradora de mano inalámbrica con filtro y accesorios para limpieza de alfombras y muebles.",
+    "categoria": "Limpieza del hogar",
+    "imagen": "https://cdn.pixabay.com/photo/2012/04/01/19/33/vacuum-24229_640.png"
+  },
+    {
+      "id": 6,
+      "nombre": "Reloj",
+      "precio": 10.99,
+      "descripcion": "Reloj de pulsera elegante y moderno, con una correa de cuero negro y una esfera de acero",
+      "categoria": "Accesorios",
+      "imagen": "https://cdn.pixabay.com/photo/2017/09/13/11/39/wrist-watch-2745278_640.png"
+    },
+    {
+      "id": 7,
+      "nombre": "Libro",
+      "precio": 15.99,
+      "descripcion": "Libro de cocina con recetas saludables y deliciosas para toda la familia.",
+      "categoria": "Educacion",
+      "imagen": "https://cdn.pixabay.com/photo/2018/03/29/20/46/blank-3273634_640.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Mochila",
+      "precio": 20.99,
+      "descripcion": "Esta es una mochila resistente y duradera, ideal para llevar a la universidad",
+      "categoria": "Deporte",
+      "imagen": "https://cdn.pixabay.com/photo/2013/07/12/17/58/backpack-152705_640.png"
+    },
+    {
+      "id": 9,
+      "nombre": "Set de Herramientas",
+      "precio": 25.99,
+      "descripcion": "Este es un set de herramientas básicas para el hogar, que incluye un martillo, un destornillador",
+      "categoria": "Hogar",
+      "imagen": "https://cdn.pixabay.com/photo/2017/09/08/01/22/tool-box-2727391_640.png"
+    },
+    {
+      "id": 10,
+      "nombre": "Camara Digital",
+      "precio": 30.99,
+      "descripcion": "Se trata de una cámara digital compacta con una excelente calidad de imagen",
+      "categoria": "Digital",
+      "imagen": "https://cdn.pixabay.com/photo/2016/04/30/05/04/camera-1362419_640.jpg"
+    },
+    {
+      "id": 11,
+      "nombre": "Bicicleta",
+      "precio": 35.99,
+      "descripcion": " Se trata de una bicicleta de montaña de alta calidad,",
+      "categoria": "Deporte",
+      "imagen": "https://cdn.pixabay.com/photo/2013/07/13/13/46/bicycle-161524_640.png"
+    },
+    {
+      "id": 12,
+      "nombre": "Set de Maletas",
+      "precio": 40.99,
+      "descripcion": "Este es un set de maletas de viaje de diferentes tamaños,",
+      "categoria": "Viajes",
+      "imagen": "https://cdn.pixabay.com/photo/2013/07/13/12/18/suitcases-159590_640.png"
+    },
+    {
+      "id": 13,
+      "nombre": "Celular",
+      "precio": 45.99,
+      "descripcion": "Este es un teléfono inteligente de última generación, con una pantalla de alta definición,",
+      "categoria": "Celulares",
+      "imagen": "https://cdn.pixabay.com/photo/2017/04/03/15/52/mobile-phone-2198770_640.png"
+    },
+    {
+      "id": 14,
+      "nombre": "Chaqueta",
+      "precio": 50.99,
+      "descripcion": "Esta es una chaqueta de cuero clásica para hombres, con un diseño elegante.",
+      "categoria": "Ropa",
+      "imagen": "https://cdn.pixabay.com/photo/2017/10/06/04/32/jacket-2821961_640.jpg"
+    },
+    {
+      "id": 15,
+      "nombre": "Auriculares",
+      "precio": 55.99,
+      "descripcion": "Este es un par de auriculares inalámbricos de alta fidelidad, con cancelación de ruido y micrófono",
+      "categoria": "Audio y video",
+      "imagen": "https://cdn.pixabay.com/photo/2016/10/06/22/29/headphones-1720164_640.jpg"
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
